@@ -1,0 +1,6 @@
+export const WHITE="#FFFFFF"
+export const PURPLE="#0C365A"
+export const GREEN="#01D167"
+export const GREY="#A9A9A9"
+export const LIGHT_GREY="#EEEEEE"
+export const LIGHT_GREEN="#ccffe6"
